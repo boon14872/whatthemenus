@@ -1,9 +1,9 @@
 <?php 
 
-    define('DB_SERVER', 'localhost');
-    define('DB_USER', 'root');
-    define('DB_PASS', '');
-    define('DB_NAME', 'crud');
+    define('DB_SERVER', 'remotemysql.com:3306');
+    define('DB_USER', 'LwopSHMpfj');
+    define('DB_PASS', 'IaKcT1dZFP');
+    define('DB_NAME', 'LwopSHMpfj');
     
     class DB_con {
 
